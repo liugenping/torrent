@@ -14,7 +14,7 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/liugenping/bencode"
+	"github.com/liugenping/torrent/bencode"
 )
 
 type Torrent struct {

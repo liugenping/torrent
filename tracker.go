@@ -12,7 +12,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/liugenping/bencode"
+	"github.com/liugenping/torrent/bencode"
 )
 
 const (
